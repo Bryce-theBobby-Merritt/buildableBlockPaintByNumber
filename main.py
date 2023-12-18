@@ -1,4 +1,4 @@
-import PIL
+from COLORS import *
 
 def main():
     print("Running...")
